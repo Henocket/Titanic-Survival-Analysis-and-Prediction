@@ -33,8 +33,8 @@ The data preprocessing steps include:
 ##  Machine Learning:
 The following machine learning models are implemented and evaluated:
 
-- Linear SVC: A linear model for classification.
 - Random Forest Classifier: An ensemble method using multiple decision trees.
+- Linear SVC: A linear model for classification.
 - K-Nearest Neighbors Classifier: A non-parametric algorithm that classifies based on proximity to other points.
 - Gaussian Naive Bayes: A probabilistic classifier based on Bayes' Theorem.
 - Decision Tree Classifier: A model that splits data into subsets based on feature values.
